@@ -3,7 +3,7 @@ package optimization_methods;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-///2323235555555534345
+///232323dasdasdasfasf
 public class Dijkstra {
 
     private static final int INF = Integer.MAX_VALUE;
